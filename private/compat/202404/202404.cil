@@ -2538,7 +2538,7 @@
 (typeattributeset system_data_root_file_202404 (system_data_root_file))
 (typeattributeset system_dlkm_file_202404 (system_dlkm_file))
 (typeattributeset system_event_log_tags_file_202404 (system_event_log_tags_file))
-(typeattributeset system_file_202404 (system_file))
+(typeattributeset system_file_202404 (system_file iso9660 product_ship_prop sec_camera_prop system_sensor_prop udf usb_uvc_config_prop vendor_securehw_prop vendor_securenvm_prop xtra_control_prop))
 (typeattributeset system_group_file_202404 (system_group_file))
 (typeattributeset system_jvmti_agent_prop_202404 (system_jvmti_agent_prop))
 (typeattributeset system_lib_file_202404 (system_lib_file))
